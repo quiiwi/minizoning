@@ -1,0 +1,31 @@
+body{
+    background: pink;
+    color: white;
+}
+header{
+    background: forestgreen;
+}
+.blanc{
+    background: whitesmoke;
+}
+.orange{
+    background: orangered;
+}
+.noir{
+    background: black;
+}
+.bleu_clair{
+    background: lightblue;
+}
+.vert{
+    background: yellowgreen;
+}
+.bleu2{
+    background: cadetblue;
+}
+.bleu3{
+    background: darkcyan;
+}
+.violet{
+    background: crimson;
+}
