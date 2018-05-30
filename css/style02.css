@@ -1,0 +1,90 @@
+nav{
+    margin-top: 10px;
+    background:#ffa500;
+    float: right;
+    width: 80%;
+    height: 100%;
+}
+section{
+    margin-top: 10px;
+    background: #90ee90;
+    float: right;
+    width: 766PX;
+}
+footer{
+    background: #db7093;
+    width: 100%;
+    height: 70px;
+    margin-top: 20px;
+}
+header{
+    background: #808000;
+    width: 100%;
+    height: 70px;
+}
+body{
+    background: #ffe4c4;
+    color:white;
+    font-size: 1.8em;
+    font-weight: bold;
+    margin: 0 auto;
+}
+.asidep{
+    background: #333333;
+    float: left;
+    width: 30%;
+    /* height: 200px; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.clear{
+    clear: both;
+}
+.principale{
+    background: white;
+    width: 80%;
+    margin: 0 auto;
+}
+.gauche{
+    background: #87cefa;
+    float: left;
+    width: 200PX;
+}
+.droite{
+    background: #5f9ea0;
+    float: right;
+    width: 200PX;
+}
+
+.secon{
+    background: #add8e6;
+    float: right;
+    width: 70%;    
+} 
+ul{
+    list-style-type: none;
+}
+li{
+    border: 2px solid white;
+    text-align: center;
+    width: 90%;
+    margin: 3px;
+}
+li:hover{
+    background: #999999;
+    border: 2px solid #999999;
+}
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+a:link{
+    text-decoration: none;
+}
+.section_manga{
+    background: orangered;
+    width: 100%;
+}
+.section_music{
+    width: 100%;
+}

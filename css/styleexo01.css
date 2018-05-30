@@ -1,0 +1,23 @@
+body{
+    background: red;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0 auto;
+    font-size: 0.8em;
+}
+#conteneur{
+    margin: 0 auto;
+    width: 80%;
+    background: turquoise;
+    height: auto;
+}
+h1{
+    width: 80%;
+    height: 50px;
+    background: yellowgreen;
+}
+p{
+    background: purple;
+    height: auto;
+    width: 80%;
+}

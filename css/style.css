@@ -29,3 +29,41 @@ header{
 .violet{
     background: crimson;
 }
+.main{
+    width: 1001px;
+}
+.divp{
+    float: left;
+    width: px;
+}
+.nav{
+    float: left;
+    width: 1000px;;
+}
+.aside{
+    float: left;
+    width: 400px;
+    height: 300px;
+}
+.divs{
+    float: left;
+}
+section{
+    float: left;
+    width: 600px;
+    height: 200px;
+    margin-top: 20px;
+}
+.article1{
+    float: left;
+    height: 150px;
+    width: 150px;
+}
+.article2{
+    float: right;
+    height: 150px;
+    width: 150px;
+}
+.clear{
+    clear: both;
+}
