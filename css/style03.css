@@ -6,8 +6,7 @@ nav{
     
 }
 section{
-    margin-top: 10px;
-    background: #90ee90;
+    background: #5098db;
     float: right;
     width: 70%;
 }
@@ -45,20 +44,8 @@ body{
     width: 80%;
     margin: 0 auto;
 }
-.gauche{
-    background: #87cefa;
-    float: left;
-    width: 50%;
-    margin: 0 auto;
-}
-.droite{
-    background: #5f9ea0;
-    float: right;
-    width: 50%;
-}
-
 .secon{
-    background: #add8e6;
+    background: #000000;
     float: right;
     width: 70%;    
 } 
@@ -85,14 +72,14 @@ a:link{
     color: white;
 }
 .section_manga{
-    background: orangered;
+    background: rgb(255, 95, 37);
     width: 100%;
 }
 .section_music{
     width: 100%;
 }
 .ulhead li{
-    float: left;
+    display: inline-block;
     border: 1px solid white;
     list-style-type: none;
     margin: 0 auto;
@@ -108,14 +95,67 @@ a:link{
     margin: 0 auto;
 }
 .manga1{
-    background: url(../img/Manga.png) no-repeat;
     height: 420px;
     margin: 0 auto;
-    
+    background:  rgb(255, 117, 67);
+    float: left;
+    width: 50%;
+}
+.manga1 div h2{
+    background: #333333;
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+    opacity: 0.7;
+}
+.manga2{
+    height: 420px;
+    margin: 0 auto;
+    background: rgb(255, 117, 67);
+    float: right;
+    width: 50%;
+}
+.manga2 div{
+    background: #333333;
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+    height: 100px;
+    opacity: 0.7;
+}
+.music1{
+    height: 420px;
+    background: #74bcff;
+    float: left;
+    width: 50%;
+    margin: 0 auto;
+}
+.music1 div{
+    background: #333333;
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+    height: 100px;
+    opacity: 0.7;
 
 }
-.manga1 p{
-    display: inline;
+.music2{
+    margin: 0 auto;
+    height: 420px;
+    background: #74bcff;
+    float: right;
+    width: 50%;
+}
+.music2 div{
     background: #333333;
+    display: inline-block;
     width: 100%;
+    margin: 0 auto;
+    height: 100px;
+    opacity: 0.7;
+}
+.guts1{
+    background: url(../img/Manga.png) no-repeat;
+    background-size: 100% 100%;
+    height: 100%;
 }
